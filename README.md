@@ -1,4 +1,4 @@
-# esx_carmileage
+# f4Lq_carmileage
 This allows people to have mileage on their cars, or stolen cars.
 
 
@@ -8,7 +8,7 @@ Download the first release, extract it to somewhere in your PC.
 
 Go to the extracted folder and move esx_carmileage to your resources folder.
 
-Add <b>start esx_carmileage</b> to your server.cfg
+Add <b>ensure f4Lq_carmileage</b> to your server.cfg
 
 Import veh_km.sql into your database.
 
