@@ -1,6 +1,10 @@
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+fx_version 'adamant'
+lua54 'yes'
+game 'gta5'
 
-description 'ESX Car Mileage'
+author 'f4Lq'
+name 'f4Lq_carmileage'
+description 'Car Mileage'
 
 server_scripts {
 	'server/main.lua',
